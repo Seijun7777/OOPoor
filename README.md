@@ -13,21 +13,6 @@ Supports multiple users, income/expense tracking, and an admin panel.
 - Data stored in a binary file (no external database)
 
 
-## Project Structure
-Project_1/
-├── main.cpp
-├── Login_Functions.h
-├── Menu_User.h
-├── Menu_Admin.h
-├── assets/
-│   └── Arts.h
-├── Classes/
-│   ├── Users.h
-│   └── Transactions.h
-└── DataBase/
-└── DataBase.bin
-
-
 ## Requirements
 
 - C++17 or later
